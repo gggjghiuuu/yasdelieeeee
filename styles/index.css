@@ -70,8 +70,6 @@
 .section__image {
     width: 256px;
     height: 226px;
-    background-size: cover;
-    border: none;
 }
 .section__intro {
     display: flex;
